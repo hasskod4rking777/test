@@ -29,3 +29,5 @@
 
 
 ?>
+#user:test
+#password:test
