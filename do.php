@@ -1,32 +1,3 @@
-
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@hasskod4rking777
-orangetw /
-My-CTF-Web-Challenges
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-My-CTF-Web-Challenges/hitcon-ctf-2014/pushincat/do.php /
-@orangetw
-orangetw Initial commit
-Latest commit a815c2b on Aug 1, 2016
-History
-1 contributor
-82 lines (58 sloc) 1.81 KB
 <?php
 
 session_start();
@@ -109,19 +80,3 @@ if ($action == 'logout'){
 }
 
 ?>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
